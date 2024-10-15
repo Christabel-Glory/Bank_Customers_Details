@@ -1,5 +1,13 @@
-# Bank_Customers_Details
+# Project Title: Bank_Customers_Details
 An Excel Project on Bank Customers
+- [Project Overview](#project-overview)
+- Data Sources
+- Tools Used
+- Data Cleaning and Preparations
+- Exploratory Data Analysis
+- Data Analysis
+- [Data sheet](#data-sheet)
+
 ### Project Overview
 ---
 ### Data Sources
@@ -38,5 +46,9 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
-### Data Visualization 
+### Data sheet
 ---
+[Bank_customer_details (1).xlsx](https://github.com/user-attachments/files/17381997/Bank_customer_details.1.xlsx)
+
+⭐⭐⭐
+
