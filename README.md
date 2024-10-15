@@ -2,7 +2,7 @@
 An Excel Project on Bank Customers
 
 ### Outline
-
+---
 - [Project Overview](#project-overview)
   
 - [Data Sources](#data-sources)
