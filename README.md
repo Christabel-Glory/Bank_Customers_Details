@@ -3,7 +3,7 @@ An Excel Project on Bank Customers
 ### Project Overview
 ### Data Sources
 ### Tools Used
-- Microsoft Excel [Download Here](https://www.mircosoft.com)
+- Microsoft Excel [Download Here](https://www.microsoft.com)
   
    -  For Data Cleaning
    -  For Analysis
