@@ -10,17 +10,17 @@ An Excel Project on Bank Customers
 - [Tools Used](#tools-used)
 
 - [Data Cleaning and Preparations](#data-cleaning-and-preparations)
-  
+
 - [Exploratory Data Analysis](#exploratory-data-analysis)
   
-- [Data Analysis](#data-analysis)
-  
-- [Data sheet](#data-sheet)
+- [Dataset](#dataset)
 
 ### Project Overview
----
+--- 
+This is a project where analysis was carried out on bank customer details and reward was given to customers with above a certain amount with the use of soem excel functions
 ### Data Sources
----
+--- 
+This data used here was Bank Customer details.xlsx. which was gotten from Data Science Nigeria (DSN)
 ### Tools Used
 ---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
@@ -28,8 +28,7 @@ An Excel Project on Bank Customers
    -  For Data Cleaning
    -  For Analysis
    -  For Data Visualization
-     
-- SQL - Structured Query Language for querying of data
+    
 - GitHub for Portfolio Building
 
 ### Data Cleaning and Preparations
@@ -44,17 +43,9 @@ In the initial phase of the Data cleaning and preparations, we perform the follo
 ---
 EDA involves the exploring of the Data to answer some questions about the Data such as;
 
--
+- The reward of cutomers with #500,000 and above with 2% salary increase
 
-### Data Analysis
----
-Some of the codes used
-```SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
-```
-
-### Data sheet
+### Dataset
 ---
 [Bank_customer_details (1).xlsx](https://github.com/user-attachments/files/17381997/Bank_customer_details.1.xlsx)
 
